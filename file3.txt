@@ -1,1 +1,3 @@
 this is fast forward bybranch gags
+
+thus is commit 3 in demo branch
