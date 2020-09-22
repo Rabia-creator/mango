@@ -1,2 +1,4 @@
 this is a 2nd file and doinf fast forward merge
 checking merge commit
+
+this is 2nd commit
