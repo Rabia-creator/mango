@@ -1,2 +1,4 @@
 this is a file of file 1 u check fast forward merge
 checking mege commit
+
+this is 1stcommt change
