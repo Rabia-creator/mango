@@ -1,4 +1,5 @@
 this is a file of file 1 u check fast forward merge
 checking mege commit
 
-this is 1stcommt change
+this is 1stcommt chani m checking git blame
+
